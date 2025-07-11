@@ -1,2 +1,2 @@
-# SIM_AI
-AI-based methods synthetized in Stacked Intelligent Metasurfaces (SIM)
+# SIM
+This repository provides code implementations of advanced wave-based computing algorithms—such as DOA detection and beam tracking—on stacked intelligent metasurfaces.
